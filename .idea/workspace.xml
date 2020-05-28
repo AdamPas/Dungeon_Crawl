@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DungeonCrawl" targetName="DungeonCrawl" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce752f71-3abf-42ea-94c2-0574ec7f0b26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZiaSHcl02ZWokpquBykOZSDsVn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DungeonCrawl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DungeonCrawl" TARGET_NAME="DungeonCrawl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DungeonCrawl" RUN_TARGET_NAME="DungeonCrawl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce752f71-3abf-42ea-94c2-0574ec7f0b26" name="Default Changelist" comment="" />
+      <created>1585324366029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585324366029</updated>
+      <workItem from="1585324367538" duration="3495000" />
+      <workItem from="1585328289342" duration="6256000" />
+      <workItem from="1585408556426" duration="4060000" />
+      <workItem from="1585556932784" duration="1221000" />
+      <workItem from="1586766097758" duration="644000" />
+      <workItem from="1586786571185" duration="3721000" />
+      <workItem from="1586791453827" duration="3260000" />
+      <workItem from="1586962257094" duration="6000" />
+      <workItem from="1586972807359" duration="3353000" />
+      <workItem from="1587023653176" duration="341000" />
+      <workItem from="1587055866289" duration="1939000" />
+      <workItem from="1587110384339" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1801" height="2" key="GridCell.Tab.0.bottom" timestamp="1587057806803">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="2" key="GridCell.Tab.0.bottom/73.27.1847.1053@73.27.1847.1053" timestamp="1587057806803" />
+    <state width="1801" height="2" key="GridCell.Tab.0.center" timestamp="1587057806803">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="2" key="GridCell.Tab.0.center/73.27.1847.1053@73.27.1847.1053" timestamp="1587057806803" />
+    <state width="1801" height="2" key="GridCell.Tab.0.left" timestamp="1587057806803">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="2" key="GridCell.Tab.0.left/73.27.1847.1053@73.27.1847.1053" timestamp="1587057806803" />
+    <state width="1801" height="2" key="GridCell.Tab.0.right" timestamp="1587057806803">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="2" key="GridCell.Tab.0.right/73.27.1847.1053@73.27.1847.1053" timestamp="1587057806803" />
+    <state width="1801" height="404" key="GridCell.Tab.1.bottom" timestamp="1585412617643">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="404" key="GridCell.Tab.1.bottom/73.27.1847.1053@73.27.1847.1053" timestamp="1585412617643" />
+    <state width="1801" height="404" key="GridCell.Tab.1.center" timestamp="1585412617643">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="404" key="GridCell.Tab.1.center/73.27.1847.1053@73.27.1847.1053" timestamp="1585412617643" />
+    <state width="1801" height="404" key="GridCell.Tab.1.left" timestamp="1585412617642">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="404" key="GridCell.Tab.1.left/73.27.1847.1053@73.27.1847.1053" timestamp="1585412617642" />
+    <state width="1801" height="404" key="GridCell.Tab.1.right" timestamp="1585412617643">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state width="1801" height="404" key="GridCell.Tab.1.right/73.27.1847.1053@73.27.1847.1053" timestamp="1585412617643" />
+  </component>
+</project>
