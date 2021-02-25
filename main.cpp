@@ -1,11 +1,4 @@
 /*
-Make a program that outputs a simple grid based gameboard to
-the screen using either numbers or characters.
-Allow the user  to move either up, down, left, or right
-each turn. If the player steps on a trap then they lose.
-If the make it to the treasure 'X' then they win.
-
-★★ Add enemies that move randomly in any direction once per turn. (enemies just like traps cause the player to lose if touched)
 
  Extra ideas:
  TODO: Place the exit randomly in one of the corners!
@@ -22,7 +15,7 @@ If the make it to the treasure 'X' then they win.
 
 #include <iostream>
 #include <cstdlib>
-#include <time.h>
+#include <ctime>
 
 #include <exception>
 
